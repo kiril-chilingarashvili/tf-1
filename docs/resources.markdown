@@ -16,3 +16,10 @@ publish: true
 - pandas
 - matplotlib
 - seaborn
+
+## Lecture Notes
+
+- [Week 1 - PDF](pdf/C1_W1.pdf)
+- [Week 2 - PDF](pdf/C1_W2.pdf)
+- [Week 3 - PDF](pdf/C1_W3.pdf)
+- [Week 4 - PDF](pdf/C1_W4.pdf)
