@@ -1,0 +1,19 @@
+---
+---
+
+$content-width:    1200px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        1200px !default;
+
+@media print
+{
+  .no-print, .no-print *
+  {
+    display:none !important;
+  }
+}
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
