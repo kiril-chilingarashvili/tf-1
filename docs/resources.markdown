@@ -27,3 +27,4 @@ publish: true
 ## Links:
 
 - [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
+- [Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/)
