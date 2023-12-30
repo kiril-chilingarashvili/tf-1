@@ -23,3 +23,7 @@ publish: true
 - [Week 2 - PDF](pdf/C1_W2.pdf)
 - [Week 3 - PDF](pdf/C1_W3.pdf)
 - [Week 4 - PDF](pdf/C1_W4.pdf)
+
+## Links:
+
+- [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
