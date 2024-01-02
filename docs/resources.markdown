@@ -28,3 +28,4 @@ publish: true
 
 - [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
 - [Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/)
+- [Convolutional Neural Networks - Youtube Playlist](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
