@@ -41,7 +41,7 @@ print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('
 
 # Define the model
 model = tf.keras.models.Sequential([
-                                                         
+
   # Add convolutions and max pooling
   tf.keras.layers.Conv2D(64, (3,3), activation='relu', input_shape=(28, 28, 1)),
   tf.keras.layers.MaxPooling2D(2, 2),
